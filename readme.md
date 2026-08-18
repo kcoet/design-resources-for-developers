@@ -317,6 +317,7 @@ Available for MacOS, Linux, & Windows<br>
 | [IconShelf](https://iconshelf.com/) | Access 250,000+ open-source SVG icons you can customize to fit any design or development project. |
 | [All SVG Icons](https://allsvgicons.com/) | Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries. |
 | [SVG to ICO](https://svg-to-ico.org) - A free, fast online tool to convert SVG images to ICO format for favicons and app icons. |
+| [SVGIconify](https://svgiconify.com) - Search 343K+ icons from 240 curated libraries and export as SVG, PNG, JSX, or Base64, no account needed. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
